@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+c:\новая папка\test.git\consoleapplication1\consoleapplication1.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Новая папка\Test.git\ConsoleApplication1\Debug\ConsoleApplication1.exe
